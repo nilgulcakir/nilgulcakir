@@ -1,11 +1,9 @@
-![MasterHead](https://veriakademi.com/images/ios-iphone-uygulama-gelistirme-ders.png)
+![MasterHead](https://developer.apple.com/news/images/og/apple-developer-og.png)
 <h1 align="center">Hi 👋, I'm Nilgül Çakır</h1>
 <h3 align="center">Türkiye'den tutkulu bir yazılım geliştiricisi</h3>
 
-- 🔭 I’m currently working on **Python**
-
-- 🌱 I’m currently learning **Swift**
-
+- 🔭 I’m currently working in the **Swift** 
+- 🌱 I’m currently learning **Swift** and **SwiftUI**
 - 📫 How to reach me **nilgul1548@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
